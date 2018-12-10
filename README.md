@@ -1,2 +1,2 @@
 # kottans-frontend
-### 0. GitBasics
+### 0. Git Basics
